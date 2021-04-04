@@ -1,5 +1,6 @@
 # 894-Team-Project
-Deep Learning Team Project - Pothole Detection
+Deep Learning Team Project
+
 ## Image-Based Potholes Detection Using Convolutional Neural Networks 
 
 
